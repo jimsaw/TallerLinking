@@ -1,4 +1,5 @@
-* addvec.c */
+#include <CarpetaInterna/vector.h>
+/* addvec.c */
 /* $begin addvec */
 void addvec(int *x, int *y,
 	    int *z, int n) 

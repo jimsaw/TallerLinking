@@ -1,3 +1,4 @@
+#include <CarpetaInterna/vector.h>
 /* multvec.c */
 /* $begin multvec */
 void multvec(int *x, int *y, 
